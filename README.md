@@ -5,6 +5,12 @@ A comprehensive, interactive 3D simulation of a tokamak fusion reactor with 62+ 
 ![Tokamak Simulation](screenshot.png)
 *Interactive 3D visualization of plasma confinement with magnetic field lines*
 
+
+#Screenshot
+<img width="1906" height="953" alt="Image" src="https://github.com/user-attachments/assets/04007126-ea6f-4811-b0e5-663dcbf73242" />
+
+<img width="1077" height="784" alt="Image" src="https://github.com/user-attachments/assets/4bfaecbb-fe09-4a7f-baf0-f2a731ff1e83" />
+
 ## 🌟 Features
 
 ### Core Physics (9000+ lines)
